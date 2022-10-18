@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       fontFamily: {
         'roboto': "'Roboto', sans-serif"
+      },
+      width: {
+        'like-full': '90%'
       }
     },
   },
